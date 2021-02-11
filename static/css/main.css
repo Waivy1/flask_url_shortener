@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  background: lightcyan;
+  justify-content: center;
+}
+
+input {
+  background: lightsalmon;
+  border: none;
+  border-radius: 0.1rem;
+}
